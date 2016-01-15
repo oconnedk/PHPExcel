@@ -159,7 +159,7 @@ class PHPExcel_Shared_Font
              7 => array('px' => 48, 'width' =>  9.59765625),
              8 => array('px' => 56, 'width' =>  9.33203125),
              9 => array('px' => 64, 'width' =>  9.14062500),
-            10 => array('px' => 64, 'width' =>  9.14062500),
+             10 => array('px' => 64, 'width' =>  9.14062500),
         ),
         'Calibri' => array(
              1 => array('px' => 24, 'width' => 12.00000000),
@@ -171,8 +171,8 @@ class PHPExcel_Shared_Font
              7 => array('px' => 48, 'width' =>  9.59765625),
              8 => array('px' => 56, 'width' =>  9.33203125),
              9 => array('px' => 56, 'width' =>  9.33203125),
-            10 => array('px' => 64, 'width' =>  9.14062500),
-            11 => array('px' => 64, 'width' =>  9.14062500),
+             10 => array('px' => 64, 'width' =>  9.14062500),
+             11 => array('px' => 64, 'width' =>  9.14062500),
         ),
         'Verdana' => array(
              1 => array('px' => 24, 'width' => 12.00000000),
@@ -184,7 +184,7 @@ class PHPExcel_Shared_Font
              7 => array('px' => 48, 'width' =>  9.59765625),
              8 => array('px' => 64, 'width' =>  9.14062500),
              9 => array('px' => 72, 'width' =>  9.00000000),
-            10 => array('px' => 72, 'width' =>  9.00000000),
+             10 => array('px' => 72, 'width' =>  9.00000000),
         ),
     );
 
